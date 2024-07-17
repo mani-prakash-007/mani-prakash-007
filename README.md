@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mani-prakash-007
-- 👀 I’m interested in ML/AI/Data Analytics/ WebDesign
-- 🌱 I’m currently studying CSE-3 rd year @AnnaUniv-CBE 
+- 👀 I’m interested in Full Stack / ML / AI / Prompt Engineering / 
+- 🌱 I’m currently studying CSE - Final year @AnnaUniv-CBE 
 - 💞️ I’m looking for internships at Any IT's
 - 📫 Reach me via mail - manip8072@gmail.com
 
