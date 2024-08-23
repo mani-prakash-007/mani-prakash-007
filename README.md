@@ -5,13 +5,11 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 🤝 I’m looking for help with **Internships**
-
-- 👨‍💻 All of my projects are available at [https://mani-prakash-007.github.io/Mani-Prakash-Portfolio/](https://mani-prakash-007.github.io/Mani-Prakash-Portfolio/)
+- 🤝 I’m looking for **Internships**
 
 - 📫 How to reach me **manip8072@gmail.com**
 
-- ⚡ Fun fact **I'm a Night Bot**
+- ⚡ Fun fact **Programming is too easy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
